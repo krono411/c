@@ -16,7 +16,7 @@ int main(){
 	myTime now, open;
 	now.hour=8;
 	now.minute=18;
-	cout<<"現在時間:"
+	cout<<"現在時間:";
         now.printTime();
 	open.hore =9;
 	open.minute =10;
